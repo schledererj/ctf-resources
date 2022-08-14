@@ -18,6 +18,7 @@ This repo is a centralized dumping grounds for resources I have found (or might 
 
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - Part of the `awesome` series, Awesome CTF is "a curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials".
 * [SecLists](https://github.com/danielmiessler/SecLists) - In previous years, the Cloud Village's CTF often involves brute-forcing usernames, passwords, hostnames, etc. SecLists includes compilations of common usernames, passwords, fuzzing patterns, subdomains, and more, all in one convenient location.
+* [Statistically Likely Usernames](https://github.com/insidetrust/statistically-likely-usernames) - "Wordlists for creating statistically likely usernames for use in username-enumeration, simulated password-attacks and other security testing tasks"
 
 ## Helpful tools
 
